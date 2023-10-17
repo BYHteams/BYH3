@@ -1373,7 +1373,7 @@
         {
          "columns":3,
          "firstgid":4192,
-         "image":"..\/BYH2\/tilesets\/LG.png",
+         "image":"tilesets\/LG.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
