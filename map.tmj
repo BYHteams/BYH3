@@ -1565,7 +1565,7 @@
                  "y":1120.33333333333
                 }, 
                 {
-                 "height":64,
+                 "height":27.5,
                  "id":18,
                  "name":"to-conference",
                  "properties":[
@@ -1577,12 +1577,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":32,
-                 "x":0,
-                 "y":512
+                 "width":78,
+                 "x":88,
+                 "y":1950
                 }, 
                 {
-                 "height":32,
+                 "height":115,
                  "id":19,
                  "name":"from-conference",
                  "properties":[
@@ -1595,8 +1595,8 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":0,
-                 "y":444
+                 "x":508,
+                 "y":2122
                 }, 
                 {
                  "height":286,
@@ -1663,6 +1663,17 @@
                  "width":211,
                  "x":361,
                  "y":1094.5
+                }, 
+                {
+                 "height":194.363666666667,
+                 "id":92,
+                 "name":"clock",
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":64.2727,
+                 "x":94.1969833333333,
+                 "y":2014.48483333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1904,7 +1915,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":92,
+ "nextobjectid":93,
  "orientation":"orthogonal",
  "properties":[
         {
