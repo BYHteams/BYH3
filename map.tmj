@@ -5667,7 +5667,7 @@
         {
          "columns":12,
          "firstgid":36186,
-         "image":"..\/BYH2\/tilesets\/test-17.png",
+         "image":"tilesets\/test-17.png",
          "imageheight":320,
          "imagewidth":384,
          "margin":0,
