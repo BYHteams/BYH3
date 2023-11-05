@@ -1567,12 +1567,12 @@
                 {
                  "height":27.5,
                  "id":18,
-                 "name":"to-conference",
+                 "name":"To-byh2",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-office"
+                         "value":"https:\/\/play.workadventu.re\/@\/byh\/byh\/byh2#entry-from-building"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1685,6 +1685,17 @@
                  "width":64.7162,
                  "x":95.1419,
                  "y":2014.1665
+                }, 
+                {
+                 "height":0,
+                 "id":95,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":-197.333333333333,
+                 "y":1914.66666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2037,7 +2048,7 @@
          "y":0
         }],
  "nextlayerid":80,
- "nextobjectid":94,
+ "nextobjectid":96,
  "orientation":"orthogonal",
  "properties":[
         {
