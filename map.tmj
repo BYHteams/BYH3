@@ -1473,38 +1473,6 @@
                  "y":1117.02691164713
                 }, 
                 {
-                 "height":283,
-                 "id":13,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":283.5,
-                 "x":418.5,
-                 "y":771
-                }, 
-                {
                  "height":284,
                  "id":14,
                  "name":"silentZone",
@@ -1520,38 +1488,6 @@
                  "width":284,
                  "x":416,
                  "y":1376
-                }, 
-                {
-                 "height":221,
-                 "id":16,
-                 "name":"jitsiMeetingRoom",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":222.5,
-                 "x":96.5,
-                 "y":801
                 }, 
                 {
                  "height":189.69696969697,
@@ -1687,15 +1623,31 @@
                  "y":2014.1665
                 }, 
                 {
-                 "height":0,
-                 "id":95,
-                 "name":"",
+                 "height":264,
+                 "id":96,
+                 "name":"sound",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"fileName=nature_fire_burning_crackle_fireplace.mp3&expiry=1699208094&access=b53599bf9e5b8e561fd13d8e162956da995d20b2647d3663c2e401eece22b4ad"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
-                 "width":0,
-                 "x":-197.333333333333,
-                 "y":1914.66666666667
+                 "width":322.666666666667,
+                 "x":40,
+                 "y":1398.66666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2048,7 +2000,7 @@
          "y":0
         }],
  "nextlayerid":80,
- "nextobjectid":96,
+ "nextobjectid":97,
  "orientation":"orthogonal",
  "properties":[
         {
