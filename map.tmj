@@ -1765,8 +1765,51 @@
                  "width":322.666666666667,
                  "x":40,
                  "y":1398.66666666667
+                }, 
+                {
+                 "height":61.6666666666666,
+                 "id":97,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.timeclockwizard.com\/free-online-time-card-calculator-breaks"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Please record your time."
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":123.333333333333,
+                 "x":1218.66666666667,
+                 "y":705
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/11zCGw6clnSMXxlC-RYSgeKyh9CUxEKUx\/edit?usp=sharing&ouid=112062456199369504819&rtpof=true&sd=true"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onicon"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Please record your time."
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -2117,7 +2160,7 @@
          "y":0
         }],
  "nextlayerid":81,
- "nextobjectid":97,
+ "nextobjectid":98,
  "orientation":"orthogonal",
  "properties":[
         {
