@@ -1674,7 +1674,7 @@
                         {
                          "name":"jitsiTriggerMessage",
                          "type":"string",
-                         "value":"Run Run Shabestari is coming!!! just Press space to hide."
+                         "value":"Press space to join"
                         }, 
                         {
                          "name":"zoom_margin",
