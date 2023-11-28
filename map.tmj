@@ -111,7 +111,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/11zCGw6clnSMXxlC-RYSgeKyh9CUxEKUx\/edit?usp=sharing&ouid=112062456199369504819&rtpof=true&sd=true"
+                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1MrYlaMz4zloGHeKWhzFsC31Y8aNpxvDh\/edit#gid=964752372"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1774,7 +1774,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.timeclockwizard.com\/free-online-time-card-calculator-breaks"
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1MrYlaMz4zloGHeKWhzFsC31Y8aNpxvDh\/edit#gid=964752372"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
